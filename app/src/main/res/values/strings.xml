@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ResponseBundle</string>
+    <string name="radioButtonFemale">여성</string>
+    <string name="radioButtonMale">남성</string>
+    <string name="FirstButton">First Button</string>
+    <string name="FirstActivity">First Activity</string>
+    <string name="textViewGender">성별</string>
+    <string name="ExplicitActivity">Explicit Activity</string>
+    <string name="hintName">이름을 입력하세요.</string>
+    <string name="hintAge">나이를 입력하세요.</string>
+    <string name="resultValue">Result Value</string>
+</resources>
